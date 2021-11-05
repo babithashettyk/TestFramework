@@ -8,6 +8,9 @@
 import Foundation
 public class myTest{
     public class func one(){
-        print("onr")
+        print("one")
+    }
+    public class func two(){
+        print("two")
     }
 }
