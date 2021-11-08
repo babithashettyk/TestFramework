@@ -10,13 +10,5 @@ public class myTest{
     public class func one(){
         print("one")
     }
-    public class func two(){
-        print("two")
-    }
-    public class func three(){
-        print("two")
-    }
-    public class func four(){
-        print("four")
-    }
+    
 }
