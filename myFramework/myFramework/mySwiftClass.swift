@@ -10,5 +10,8 @@ public class myTest{
     public class func one(){
         print("one")
     }
+    public class func two(){
+        print("one")
+    }
     
 }
