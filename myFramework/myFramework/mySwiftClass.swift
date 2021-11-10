@@ -22,9 +22,7 @@ public class myTest{
     public class func five(){
         print("one")
     }
-    public class func six(){
-        print("one")
-    }
+    
     public class func seven(){
         print("one")
     }
