@@ -28,5 +28,8 @@ public class myTest{
     public class func seven(){
         print("one")
     }
+    public class func eight(){
+        print("one")
+    }
     
 }
