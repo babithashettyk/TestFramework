@@ -19,5 +19,8 @@ public class myTest{
     public class func four(){
         print("one")
     }
+    public class func five(){
+        print("one")
+    }
     
 }
